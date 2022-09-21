@@ -27,3 +27,24 @@ git pull
 ```bash
 git log
 ```
+```bash
+git reset
+```
+```bash
+git reset --hard <commit hash>
+```
+```bash
+git reset --hard origin/master
+```
+```bash
+git branch
+```
+```bash
+git checkout -b <"branch name">
+```
+```bash
+git checkout <"branch name">
+```
+```bash
+git merge <"branch name">
+```
