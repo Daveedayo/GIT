@@ -16,14 +16,14 @@ git add <filename>
 git commit -m <"message">
 ```
 ```bash
-git clone <url>
+git push
 ```
 ```bash
-git clone <url>
+git commit -am <"message">
 ```
 ```bash
-git clone <url>
+git pull
 ```
 ```bash
-git clone <url>
+git log
 ```
